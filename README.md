@@ -73,6 +73,6 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 ![screenshot](./SiteSS/huddle-landing-page.png)
 
 - Live Site URL: [https://kens-visuals.github.io/huddle-landing-page/](https://kens-visuals.github.io/huddle-landing-page/)
-- Repository URL: [https://github.com/kens-visuals/huddle-landing-page#screenshot](https://github.com/kens-visuals/huddle-landing-page#screenshot)
+- Repository URL: [https://github.com/DummyKen/Huddle-landing-page](https://github.com/DummyKen/Huddle-landing-page)
 - Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-scss-bem-and-css-flexbox-xDNM9FSFX](https://www.frontendmentor.io/solutions/huddle-landing-page-with-scss-bem-and-css-flexbox-xDNM9FSFX)
 

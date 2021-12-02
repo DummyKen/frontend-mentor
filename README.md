@@ -18,7 +18,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 ## Order Summary Component
 
-![screenshot](./screenshots/order-summary-component-screenshot.png)
+![screenshot](./SiteSS/order-summary-card.png)
 
 - Live Site URL: [https://kens-visuals.github.io/order-summary-component/](https://kens-visuals.github.io/order-summary-component/)
 - Repository URL: [https://github.com/kens-visuals/order-summary-component](https://github.com/kens-visuals/order-summary-component)
@@ -26,7 +26,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 ## 3 Column Preview Card Component
 
-![screenshot](./screenshots/3-column-screenshot.png)
+![screenshot](./SiteSS/3-column-preview-card.png)
 
 - Live Site URL: [https://kens-visuals.github.io/3-column/](https://kens-visuals.github.io/3-column/)
 - Repository URL: [https://github.com/kens-visuals/3-column](https://github.com/kens-visuals/3-column)
@@ -34,7 +34,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 ## Profile Card Component
 
-![screenshot](./screenshots/profile-card-component-screenshot.png)
+![screenshot](./SiteSS/profile-card.png)
 
 - Live Site URL: [https://kens-visuals.github.io/profile-card-component/](https://kens-visuals.github.io/profile-card-component/)
 - Repository URL: [https://github.com/kens-visuals/profile-card-component](https://github.com/kens-visuals/profile-card-component)
@@ -43,7 +43,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 ## Stats Preview Card Component
 
-![screenshot](./screenshots/stats-preview-screenshot.png)
+![screenshot](./SiteSS/stats-card.png)
 
 - Live Site URL: [https://kens-visuals.github.io/stats-preview/](https://kens-visuals.github.io/stats-preview/)
 - Repository URL: [https://github.com/kens-visuals/stats-preview](https://github.com/kens-visuals/stats-preview)
@@ -52,7 +52,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 ## Four Card Feature Section
 
-![screenshot](./screenshots/four-card-feature-section-screenshot.png)
+![screenshot]()
 
 - Live Site URL: [https://kens-visuals.github.io/four-card-feature-section/](https://kens-visuals.github.io/four-card-feature-section/)
 - Repository URL: [https://github.com/kens-visuals/four-card-feature-section](https://github.com/kens-visuals/four-card-feature-section)
@@ -62,7 +62,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 ## Single Price Grid Component
 
-![screenshot](./screenshots/single-price-grid-component-screenshot.png)
+![screenshot](./SiteSS/single-price-grid.png)
 
 - Live Site URL: [https://kens-visuals.github.io/single-price-grid-component/](https://kens-visuals.github.io/single-price-grid-component/)
 - Repository URL: [https://github.com/kens-visuals/single-price-grid-component](https://github.com/kens-visuals/single-price-grid-component)
@@ -70,7 +70,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 ## Huddle Landing Page
 
-![screenshot](./screenshots/huddle-landing-page-screenshot.png)
+![screenshot](./SiteSS/huddle-landing-page.png)
 
 - Live Site URL: [https://kens-visuals.github.io/huddle-landing-page/](https://kens-visuals.github.io/huddle-landing-page/)
 - Repository URL: [https://github.com/kens-visuals/huddle-landing-page#screenshot](https://github.com/kens-visuals/huddle-landing-page#screenshot)
